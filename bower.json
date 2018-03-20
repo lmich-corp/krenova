@@ -1,0 +1,21 @@
+{
+  "name": "krenova2018",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Lmich91 <31231160+Lmich91@users.noreply.github.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.0.0"
+  }
+}
